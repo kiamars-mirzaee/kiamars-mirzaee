@@ -168,4 +168,4 @@ I'm currently **open to Senior Full-Stack, Backend, and AI Engineer roles** — 
 💼 [linkedin.com/in/kiamars-mirzaee](https://linkedin.com/in/kiamars-mirzaee)
 &nbsp;·&nbsp;
 ✍️ [medium.com/@kiamars.mirzaee](https://medium.com/@kiamars.mirzaee)
-EOF
+

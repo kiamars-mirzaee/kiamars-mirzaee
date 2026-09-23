@@ -59,6 +59,16 @@ Currently **open to remote, EU, and US opportunities** — available immediately
 
 ## 📦 Open source
 
+**[km-arc/LaravelCacheNet](https://github.com/km-arc/LaravelCacheNet)**
+
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+A Laravel-inspired cache, distributed lock, tagging and queue abstraction for .NET, with pluggable in-memory, Redis, and Memcached drivers behind a single, consistent API. Brings `Cache::remember()`, `Cache::lock()`, `Cache::tags()`, and `Queue::push()` semantics to .NET — including per-user cache scoping and Redis/Memcached-safe tag invalidation via versioned keys.
+
+```bash
+git clone https://github.com/km-arc/LaravelCacheNet.git
+```
+
 **[kiamars-mirzaee/NetGrid](https://github.com/kiamars-mirzaee/NetGrid)**
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
